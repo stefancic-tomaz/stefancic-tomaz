@@ -5,6 +5,7 @@
     
 ## Znanje
 Trenutno se učim naslednje:
+
     - Programski jeziki:
         - Java,
         - HTML,
