@@ -39,4 +39,4 @@ Pri ustvarjanju video iger me najbolj inspirirajo tri podjetja:
 
 ## Povezave
 
-[Moj github profil](https://github.com/stefancic-tomaz)****
+[Moj github profil](https://github.com/stefancic-tomaz)
