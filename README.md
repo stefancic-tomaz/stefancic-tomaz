@@ -41,6 +41,8 @@ Pri ustvarjanju video iger me najbolj inspirirajo tri podjetja:
 
 [Moj github profil](https://github.com/stefancic-tomaz)
 
+[Trenutni Projekt](https://stefancic-tomaz.github.io/Linktree/)
+
 [Supercell](https://supercell.com/en/)
 
 [Werner Bros. Games](https://warnerbrosgames.com/)
