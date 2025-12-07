@@ -40,3 +40,9 @@ Pri ustvarjanju video iger me najbolj inspirirajo tri podjetja:
 ## Povezave
 
 [Moj github profil](https://github.com/stefancic-tomaz)
+
+[Supercell](https://supercell.com/en/)
+
+[Werner Bros. Games](https://warnerbrosgames.com/)
+
+[Hazelight Studios](https://www.hazelight.se/games/)
